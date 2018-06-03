@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Dave</title>
+    <title>David @ WWDC</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/fossil12&quot;&gt;@fossil12 on Micro.blog&lt;/a&gt;.</description>
     <link>https://fossil12.micro.blog/</link>
-    <pubDate>Sun, 22 Apr 2018 19:50:50 +0200</pubDate>
-    <lastBuildDate>Sun, 22 Apr 2018 19:50:50 +0200</lastBuildDate>
+    <pubDate>Sun, 03 Jun 2018 07:21:34 -0700</pubDate>
+    <lastBuildDate>Sun, 03 Jun 2018 07:21:34 -0700</lastBuildDate>
     
       <item>
       	
         <description>&lt;p&gt;This weekend seems to be the weekend of running races. It feels like half of my running friends participated in a race.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 07 May 2017 17:26:59 +0200</pubDate>
+        <pubDate>Sun, 07 May 2017 08:26:59 -0700</pubDate>
         <link>https://fossil12.micro.blog/2017/05/07/this-weekend-seems.html</link>
         <guid isPermaLink="true">http://fossil12.micro.blog/2017/05/07/this-weekend-seems.html</guid>
       </item>
@@ -20,7 +20,7 @@
       	
         <description>&lt;p&gt;Messing around with UIViews. (Where did my background color go?) Every time I pick up UIKit after months I forgot half of the details.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 07 May 2017 15:21:16 +0200</pubDate>
+        <pubDate>Sun, 07 May 2017 06:21:16 -0700</pubDate>
         <link>https://fossil12.micro.blog/2017/05/07/messing-around-with.html</link>
         <guid isPermaLink="true">http://fossil12.micro.blog/2017/05/07/messing-around-with.html</guid>
       </item>
@@ -29,7 +29,7 @@
       	
         <description>&lt;p&gt;I would love to have a option to enable or disable cross posting per post inside the iOS app (and on the website). /cc @manton&lt;/p&gt;
 </description>
-        <pubDate>Sun, 07 May 2017 14:16:30 +0200</pubDate>
+        <pubDate>Sun, 07 May 2017 05:16:30 -0700</pubDate>
         <link>https://fossil12.micro.blog/2017/05/07/i-would-love.html</link>
         <guid isPermaLink="true">http://fossil12.micro.blog/2017/05/07/i-would-love.html</guid>
       </item>
@@ -38,7 +38,7 @@
       	
         <description>&lt;p&gt;A list of all TLDs. This is a page to remember! &lt;a href=&quot;https://tld-list.com&quot;&gt;https://tld-list.com&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 30 Apr 2017 19:05:43 +0200</pubDate>
+        <pubDate>Sun, 30 Apr 2017 10:05:43 -0700</pubDate>
         <link>https://fossil12.micro.blog/2017/04/30/a-list-of.html</link>
         <guid isPermaLink="true">http://fossil12.micro.blog/2017/04/30/a-list-of.html</guid>
       </item>
@@ -47,7 +47,7 @@
       	
         <description>&lt;p&gt;Things that you do for the start… Does this cross posting (to Twitter) work? How does it look like?&lt;/p&gt;
 </description>
-        <pubDate>Sun, 30 Apr 2017 18:50:14 +0200</pubDate>
+        <pubDate>Sun, 30 Apr 2017 09:50:14 -0700</pubDate>
         <link>https://fossil12.micro.blog/2017/04/30/things-that-you.html</link>
         <guid isPermaLink="true">http://fossil12.micro.blog/2017/04/30/things-that-you.html</guid>
       </item>
@@ -56,7 +56,7 @@
       	
         <description>&lt;p&gt;Hello world!&lt;/p&gt;
 </description>
-        <pubDate>Sun, 30 Apr 2017 18:38:30 +0200</pubDate>
+        <pubDate>Sun, 30 Apr 2017 09:38:30 -0700</pubDate>
         <link>https://fossil12.micro.blog/2017/04/30/hello-world.html</link>
         <guid isPermaLink="true">http://fossil12.micro.blog/2017/04/30/hello-world.html</guid>
       </item>
