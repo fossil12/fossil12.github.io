@@ -28,7 +28,7 @@ defaults:
         values:
             layout: post
 
-title: "David @ WWDC"
+title: "Dave"
 tagline: ""
 description: "Follow <a href=\"https://micro.blog/fossil12\">@fossil12 on Micro.blog</a>."
 credits: "Follow <a href=\"https://micro.blog/fossil12\">@fossil12 on Micro.blog</a>."
@@ -39,11 +39,11 @@ username: "fossil12"
 microblog_user: "fossil12"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
-author: "David @ WWDC"
-name: "David @ WWDC"
+author: "Dave"
+name: "Dave"
 gravatar_hash: "f3968efafd906d34d2902c627e0447eb"
 avatar: "https://micro.blog/fossil12/avatar.jpg"
-full_name: "David @ WWDC"
+full_name: "Dave"
 bio: ""
 twitter_username: ""
 github_username: ""
@@ -55,5 +55,5 @@ site_id: "1292"
 gems: ["jekyll-paginate"]
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
-itunes_author: "David @ WWDC"
+itunes_author: "Dave"
 podcast: false
