@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://fossil12.micro.blog/2018/08/06/i-miss-seeing.html",
+	      	
+			"content_html": "<p>I miss seeing background audio in Screen Time. (Yeah, it doesn’t fit the name.) It would be great to see for how long I listens to podcasts and music.</p>\n",
+			"date_published": "2018-08-06T12:45:33+02:00",
+			"url": "https://fossil12.micro.blog/2018/08/06/i-miss-seeing.html"
+		},
+		
+		{
 			"id": "http://fossil12.micro.blog/2018/08/04/thank-you-for.html",
 	      	
 			"content_html": "<p>Thank you for your feedback. No showstoppers were reported so I installed the iOS 12 beta and so far everything works fine. :)</p>\n",
