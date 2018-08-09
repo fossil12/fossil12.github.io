@@ -53,7 +53,9 @@ paginate_path: "/page/:num/"
 timezone: "Poland"
 site_id: "1292"
 gems: ["jekyll-paginate"]
+itunes_description: "Applegeek. Software Engineer. Wannabe Designer. Digital Native. CS Student at ETH Zurich. Past intern at Strava, exchange at Penn. Volunteer youth work at Jubla. WWDC Scholar 2018"
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Dave"
+itunes_email: ""
 podcast: false
