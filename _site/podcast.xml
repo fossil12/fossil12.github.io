@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Dave</title>
-    <description>Applegeek. Software Engineer. Wannabe Designer. Digital Native. CS Student at ETH Zurich. Past intern at Strava, exchange at Penn. Volunteer youth work at Jubla. WWDC Scholar 2018</description>
+    <description>Applegeek. Software Engineer. Wannabe Designer. Digital Native. CS Student at ETH Zurich. Past intern at Strava, exchange at Penn. Volunteer youth work at Jubla. WWDC 2018 Scholar.</description>
     <link>https://fossil12.micro.blog/</link>
-    <pubDate>Wed, 22 Aug 2018 16:04:49 +0200</pubDate>
-    <lastBuildDate>Wed, 22 Aug 2018 16:04:49 +0200</lastBuildDate>
+    <pubDate>Thu, 23 Aug 2018 11:06:43 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Aug 2018 11:06:43 +0200</lastBuildDate>
 	<itunes:image href="https://micro.blog/fossil12/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
