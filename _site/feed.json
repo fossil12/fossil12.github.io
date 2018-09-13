@@ -1,9 +1,42 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Dave",
+	"icon": "https://micro.blog/fossil12/avatar.jpg",
 	"home_page_url": "https://fossil12.micro.blog/",
 	"feed_url": "https://fossil12.micro.blog/feed.json",
 	"items": [
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/12/one-hour-left.html",
+	      	
+			"content_html": "<p>One hour left until this year’s Apple Christmas. Sadly the surprise got a bit <a href=\"https://allthings.how/iphone-xs-and-iphone-xs-max-names-confirmed-in-apple-products-sitemap/\">ruined</a>…</p>\n",
+			"date_published": "2018-09-12T18:05:31+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/one-hour-left.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/04/til-tor-is.html",
+	      	
+			"content_html": "<p>TIL: Tor is <a href=\"https://en.wikipedia.org/wiki/Tor_(anonymity_network)\">an acronym</a> for “The Onion Router”.</p>\n",
+			"date_published": "2018-09-04T09:45:03+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/04/til-tor-is.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/08/29/i-dreamed-about.html",
+	      	
+			"content_html": "<p>I dreamed about an Instagram-like timeline in Icro and then I saw the <a href=\"https://www.manton.org/2018/06/25/132725.html\">Sunlit 2.2 blogpost</a> from <a href=\"https://micro.blog/manton\">@manton</a> yesterday. Now I’m waiting for the release…</p>\n",
+			"date_published": "2018-08-29T14:40:38+02:00",
+			"url": "https://fossil12.micro.blog/2018/08/29/i-dreamed-about.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/08/29/ron-rivest-on.html",
+	      	
+			"content_html": "<p>Ron Rivest on blockchain and its current hype: <a href=\"https://youtu.be/-fpNaapuPGY?t=11m57s\">youtu.be/-fpNaapuP…</a> 📺</p>\n",
+			"date_published": "2018-08-29T10:56:57+02:00",
+			"url": "https://fossil12.micro.blog/2018/08/29/ron-rivest-on.html"
+		},
 		
 		{
 			"id": "http://fossil12.micro.blog/2018/08/28/swan.html",
