@@ -1,9 +1,42 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Dave",
+	"icon": "https://micro.blog/fossil12/avatar.jpg",
 	"home_page_url": "https://fossil12.micro.blog/",
 	"feed_url": "https://fossil12.micro.blog/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/12/one-hour-left.html",
+	      	
+			"content_text": "One hour left until this year’s Apple Christmas. Sadly the...",
+			"date_published": "2018-09-12T18:05:31+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/one-hour-left.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/04/til-tor-is.html",
+	      	
+			"content_text": "TIL: Tor is an acronym for “The Onion Router”.\n",
+			"date_published": "2018-09-04T09:45:03+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/04/til-tor-is.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/08/29/i-dreamed-about.html",
+	      	
+			"content_text": "I dreamed about an Instagram-like timeline in Icro and then...",
+			"date_published": "2018-08-29T14:40:38+02:00",
+			"url": "https://fossil12.micro.blog/2018/08/29/i-dreamed-about.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/08/29/ron-rivest-on.html",
+	      	
+			"content_text": "Ron Rivest on blockchain and its current hype: youtu.be/-fpNaapuP… 📺...",
+			"date_published": "2018-08-29T10:56:57+02:00",
+			"url": "https://fossil12.micro.blog/2018/08/29/ron-rivest-on.html"
+		},
 		
 		{
 			"id": "http://fossil12.micro.blog/2018/08/28/swan.html",
