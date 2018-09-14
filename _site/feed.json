@@ -7,139 +7,203 @@
 	"items": [
 		
 		{
-			"id": "http://fossil12.micro.blog/2018/09/12/one-hour-left.html",
+			"id": "http://fossil12.micro.blog/2018/09/14/iphone-xs-spacegray.html",
 	      	
-			"content_html": "<p>One hour left until this year’s Apple Christmas. Sadly the surprise got a bit <a href=\"https://allthings.how/iphone-xs-and-iphone-xs-max-names-confirmed-in-apple-products-sitemap/\">ruined</a>…</p>\n",
-			"date_published": "2018-09-12T18:05:31+02:00",
-			"url": "https://fossil12.micro.blog/2018/09/12/one-hour-left.html"
+			"content_html": "<p>iPhone Xs space-gray 256GB ✅\nApple Watch Series 4 silver 44mm ✅</p>\n",
+			"date_published": "2018-09-14T09:13:39+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/14/iphone-xs-spacegray.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2018/09/04/til-tor-is.html",
+			"id": "http://fossil12.micro.blog/2018/09/13/i-settled-on.html",
 	      	
-			"content_html": "<p>TIL: Tor is <a href=\"https://en.wikipedia.org/wiki/Tor_(anonymity_network)\">an acronym</a> for “The Onion Router”.</p>\n",
-			"date_published": "2018-09-04T09:45:03+02:00",
-			"url": "https://fossil12.micro.blog/2018/09/04/til-tor-is.html"
+			"content_html": "<p>I settled on an iPhone Xs and an Apple Watch Series 4 Aluminium w/o cellular. But I’m still debating which color to get… Right now I most likely go with space-gray again. 🤔</p>\n",
+			"date_published": "2018-09-13T12:39:18+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/13/i-settled-on.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2018/08/29/i-dreamed-about.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/i-was-wrong.html",
 	      	
-			"content_html": "<p>I dreamed about an Instagram-like timeline in Icro and then I saw the <a href=\"https://www.manton.org/2018/06/25/132725.html\">Sunlit 2.2 blogpost</a> from <a href=\"https://micro.blog/manton\">@manton</a> yesterday. Now I’m waiting for the release…</p>\n",
-			"date_published": "2018-08-29T14:40:38+02:00",
-			"url": "https://fossil12.micro.blog/2018/08/29/i-dreamed-about.html"
+			"content_html": "<p>I was wrong in <a href=\"https://fossil12.micro.blog/2018/09/12/so-the-iphone.html\">this post</a>. It stayed at the same price tag.</p>\n",
+			"date_published": "2018-09-12T22:58:08+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/i-was-wrong.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2018/08/29/ron-rivest-on.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/the-new-apple.html",
 	      	
-			"content_html": "<p>Ron Rivest on blockchain and its current hype: <a href=\"https://youtu.be/-fpNaapuPGY?t=11m57s\">youtu.be/-fpNaapuP…</a> 📺</p>\n",
-			"date_published": "2018-08-29T10:56:57+02:00",
-			"url": "https://fossil12.micro.blog/2018/08/29/ron-rivest-on.html"
+			"content_html": "<p>The new Apple Watch is in every dimension bigger except depth.</p>\n\n<p><img src=\"http://fossil12.micro.blog/uploads/2018/18643a0927.jpg\" width=\"600\" height=\"309\" /></p>\n",
+			"date_published": "2018-09-12T21:18:52+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/the-new-apple.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2018/08/28/swan.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/so-the-iphone.html",
 	      	
-			"content_html": "<p>Swan.\n<img src=\"http://fossil12.micro.blog/uploads/2018/0e7073a39c.jpg\" alt=\"DB8C7DDE-586B-4214-B229-8AE4235FC77D.jpg\" /></p>\n",
-			"date_published": "2018-08-28T22:36:10+02:00",
-			"url": "https://fossil12.micro.blog/2018/08/28/swan.html"
+			"content_html": "<p>So the iPhone Xs with the same storage (256 GB) as my current iPhone X is more expensive here in Switzerland compared to the X…</p>\n",
+			"date_published": "2018-09-12T21:04:27+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/so-the-iphone.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2018/08/27/reason-i-dont.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/short-recap-i.html",
 	      	
-			"content_html": "<p>Reason 34803 I don’t like and hardly ever use Word: Typing capitalized umlauts is broken in certain documents. 🤷🏼‍♂️</p>\n",
-			"date_published": "2018-08-27T10:22:10+02:00",
-			"url": "https://fossil12.micro.blog/2018/08/27/reason-i-dont.html"
+			"content_html": "<p>Short recap: I will for sure get a new Apple Watch (I still have a Series 0) and I’m confused with the iPhones. I like the look and colors of the new iPhone Xr and I’m a bit intrigued that there are not may disadvantages to the Xs. But the display might still lead me to the Xs.</p>\n",
+			"date_published": "2018-09-12T20:52:25+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/short-recap-i.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2018/08/22/i-had-to.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/184138.html",
 	      	
-			"content_html": "<p>I had to manually manage the Time Machine local snapshots on APFS volumes as the smart deletion of them and iTunes Backups don’t play well together… 🤪</p>\n",
-			"date_published": "2018-08-22T16:04:31+02:00",
-			"url": "https://fossil12.micro.blog/2018/08/22/i-had-to.html"
+			"content_html": "<p>Oh, the iPhone 7 is still available…</p>\n",
+			"date_published": "2018-09-12T20:41:38+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/184138.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2018/08/09/the-problem-with.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/oh-the-iphone.html",
 	      	
-			"content_html": "<p>The problem with no follower count and list over her is that I actually don’t know if anybody is following me… 😥👋🏼</p>\n",
-			"date_published": "2018-08-09T17:30:58+02:00",
-			"url": "https://fossil12.micro.blog/2018/08/09/the-problem-with.html"
+			"content_html": "<p>Oh, the iPhone 7 is still available…</p>\n",
+			"date_published": "2018-09-12T20:41:33+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/oh-the-iphone.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2018/08/06/i-miss-seeing.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/for-me-it.html",
 	      	
-			"content_html": "<p>I miss seeing background audio in Screen Time. (Yeah, it doesn’t fit the name.) It would be great to see for how long I listens to podcasts and music.</p>\n",
-			"date_published": "2018-08-06T12:45:33+02:00",
-			"url": "https://fossil12.micro.blog/2018/08/06/i-miss-seeing.html"
+			"content_html": "<p>For me it looks like the bezel on the iPhone Xr is a bit bigger, than in the iPhone X(s). Maybe the color of the Xr is also missleading…</p>\n",
+			"date_published": "2018-09-12T20:39:45+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/for-me-it.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2018/08/04/thank-you-for.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/close-one-more.html",
 	      	
-			"content_html": "<p>Thank you for your feedback. No showstoppers were reported so I installed the iOS 12 beta and so far everything works fine. :)</p>\n",
-			"date_published": "2018-08-04T13:34:23+02:00",
-			"url": "https://fossil12.micro.blog/2018/08/04/thank-you-for.html"
+			"content_html": "<p>Close: “One more iPhone”.</p>\n",
+			"date_published": "2018-09-12T20:26:47+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/close-one-more.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2018/08/03/who-is-running.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/182641.html",
 	      	
-			"content_html": "<p>Who is running the iOS 12 beta on their main phone? Any reason/Big issue why I shouldn’t install it on my iPhone X? (Or why should I do it immediately?)</p>\n",
-			"date_published": "2018-08-03T20:41:27+02:00",
-			"url": "https://fossil12.micro.blog/2018/08/03/who-is-running.html"
+			"content_html": "<p>Apple definitely tries to defeat the rumors that Apple puts an expiration date on their products.</p>\n",
+			"date_published": "2018-09-12T20:26:41+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/182641.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2017/05/07/this-weekend-seems.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/182629.html",
 	      	
-			"content_html": "<p>This weekend seems to be the weekend of running races. It feels like half of my running friends participated in a race.</p>\n",
-			"date_published": "2017-05-07T17:26:59+02:00",
-			"url": "https://fossil12.micro.blog/2017/05/07/this-weekend-seems.html"
+			"content_html": "<p>Apple definitely tries to defeat the rumors that Apple puts an expiration date on their products.</p>\n",
+			"date_published": "2018-09-12T20:26:29+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/182629.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2017/05/07/messing-around-with.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/apple-definitely-tries.html",
 	      	
-			"content_html": "<p>Messing around with UIViews. (Where did my background color go?) Every time I pick up UIKit after months I forgot half of the details.</p>\n",
-			"date_published": "2017-05-07T15:21:16+02:00",
-			"url": "https://fossil12.micro.blog/2017/05/07/messing-around-with.html"
+			"content_html": "<p>Apple definitely tries to defeat the rumors that Apple puts an expiration date on their products.</p>\n",
+			"date_published": "2018-09-12T20:26:28+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/apple-definitely-tries.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2017/05/07/i-would-love.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/i-guess-the.html",
 	      	
-			"content_html": "<p>I would love to have a option to enable or disable cross posting per post inside the iOS app (and on the website). /cc @manton</p>\n",
-			"date_published": "2017-05-07T14:16:30+02:00",
-			"url": "https://fossil12.micro.blog/2017/05/07/i-would-love.html"
+			"content_html": "<p>I guess the iPhone Xr is “One more thing…”.</p>\n",
+			"date_published": "2018-09-12T20:21:19+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/i-guess-the.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2017/04/30/a-list-of.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/but-how-do.html",
 	      	
-			"content_html": "<p>A list of all TLDs. This is a page to remember! <a href=\"https://tld-list.com\">https://tld-list.com</a></p>\n",
-			"date_published": "2017-04-30T19:05:43+02:00",
-			"url": "https://fossil12.micro.blog/2017/04/30/a-list-of.html"
+			"content_html": "<p>But how do you choose the number in Messages.app?</p>\n",
+			"date_published": "2018-09-12T20:20:12+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/but-how-do.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2017/04/30/things-that-you.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/physical-sim-and.html",
 	      	
-			"content_html": "<p>Things that you do for the start… Does this cross posting (to Twitter) work? How does it look like?</p>\n",
-			"date_published": "2017-04-30T18:50:14+02:00",
-			"url": "https://fossil12.micro.blog/2017/04/30/things-that-you.html"
+			"content_html": "<p>Physical SIM and an eSIM is an interesting option for Dual-SIM.</p>\n",
+			"date_published": "2018-09-12T20:19:36+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/physical-sim-and.html"
 		},
 		
 		{
-			"id": "http://fossil12.micro.blog/2017/04/30/hello-world.html",
+			"id": "http://fossil12.micro.blog/2018/09/12/i-have-the.html",
 	      	
-			"content_html": "<p>Hello world!</p>\n",
-			"date_published": "2017-04-30T18:38:30+02:00",
-			"url": "https://fossil12.micro.blog/2017/04/30/hello-world.html"
+			"content_html": "<p>I have the feeling that my iPhone X already does some sort of Smart HDR, but in the Xs it’s probalby more advanced.</p>\n",
+			"date_published": "2018-09-12T20:12:18+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/i-have-the.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/12/the-camera-might.html",
+	      	
+			"content_html": "<p>The camera might push me over the line again to get a new iPhone Xs…</p>\n",
+			"date_published": "2018-09-12T20:08:48+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/the-camera-might.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/12/yawn-rdparyt-demos.html",
+	      	
+			"content_html": "<p><em>yawn</em> 3rd-paryt demos…</p>\n",
+			"date_published": "2018-09-12T19:56:58+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/yawn-rdparyt-demos.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/12/so-if-the.html",
+	      	
+			"content_html": "<p>So if the ever build a bigger iPhone it’s iPhone Xs Max Max?</p>\n",
+			"date_published": "2018-09-12T19:43:16+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/so-if-the.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/12/the-leaks-defintely.html",
+	      	
+			"content_html": "<p>The leaks defintely took out some of the fun…</p>\n",
+			"date_published": "2018-09-12T19:42:45+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/the-leaks-defintely.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/12/phil-iphone-ten.html",
+	      	
+			"content_html": "<p>Phil: “iPhone ten … s”</p>\n",
+			"date_published": "2018-09-12T19:40:00+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/phil-iphone-ten.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/12/so-they-start.html",
+	      	
+			"content_html": "<p>So they start with the iPhone 🎾.</p>\n",
+			"date_published": "2018-09-12T19:39:24+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/so-they-start.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/12/are-the-imessage.html",
+	      	
+			"content_html": "<p>Are the iMessage effects (e.g. lasers) new on the Apple Watch?</p>\n",
+			"date_published": "2018-09-12T19:37:05+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/are-the-imessage.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/12/now-the-question.html",
+	      	
+			"content_html": "<p>Now the question is which color to get…</p>\n",
+			"date_published": "2018-09-12T19:34:11+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/now-the-question.html"
 		}
 		
 	]
