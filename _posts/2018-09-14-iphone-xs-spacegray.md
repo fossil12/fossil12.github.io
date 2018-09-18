@@ -6,4 +6,5 @@ date: 2018-09-14 09:13:39 +0200
 guid: http://fossil12.micro.blog/2018/09/14/iphone-xs-spacegray.html
 ---
 iPhone Xs space-gray 256GB ✅
+
 Apple Watch Series 4 silver 44mm ✅
