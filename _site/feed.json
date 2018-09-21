@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://fossil12.micro.blog/2018/09/21/it-was-time.html",
+	      	
+			"content_html": "<p>It was time for an upgrade. My new Apple Watch was already in active/ty use.</p>\n\n<p><img src=\"http://fossil12.micro.blog/uploads/2018/b8e55d76a7.jpg\" width=\"600\" height=\"462\" /></p>\n",
+			"date_published": "2018-09-21T19:32:26+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/21/it-was-time.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/21/new-iphone-day.html",
+	      	
+			"content_html": "<p>New iPhone day.</p>\n\n<p><img src=\"http://fossil12.micro.blog/uploads/2018/ec54c801fe.jpg\" width=\"489\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-21T13:10:19+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/21/new-iphone-day.html"
+		},
+		
+		{
 			"id": "http://fossil12.micro.blog/2018/09/21/two-interesting-small.html",
 	      	
 			"content_html": "<p>Two interesting small details about the depth of todays new Apple devices:</p>\n\n<ol>\n  <li>\n    <p>The iPhone X(s) (Max) is 0.1 mm thicker than the iPhone 5 series (<a href=\"https://daringfireball.net/2018/09/the_iphones_xs\">7.7 mm vs. 7.6 mm</a>)</p>\n  </li>\n  <li>\n    <p>The Apple Watch Series 4 is 0.2 mm thicker than the Apple Watch Series 0 (<a href=\"https://mjtsai.com/blog/2018/09/19/apple-watch-series-4/\">10.5 mm vs 10.7 mm</a>)</p>\n  </li>\n</ol>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>So if the ever build a bigger iPhone it’s iPhone Xs Max Max?</p>\n",
 			"date_published": "2018-09-12T19:43:16+02:00",
 			"url": "https://fossil12.micro.blog/2018/09/12/so-if-the.html"
-		},
-		
-		{
-			"id": "http://fossil12.micro.blog/2018/09/12/the-leaks-defintely.html",
-	      	
-			"content_html": "<p>The leaks defintely took out some of the fun…</p>\n",
-			"date_published": "2018-09-12T19:42:45+02:00",
-			"url": "https://fossil12.micro.blog/2018/09/12/the-leaks-defintely.html"
-		},
-		
-		{
-			"id": "http://fossil12.micro.blog/2018/09/12/phil-iphone-ten.html",
-	      	
-			"content_html": "<p>Phil: “iPhone ten … s”</p>\n",
-			"date_published": "2018-09-12T19:40:00+02:00",
-			"url": "https://fossil12.micro.blog/2018/09/12/phil-iphone-ten.html"
 		}
 		
 	]
