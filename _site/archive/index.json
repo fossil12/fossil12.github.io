@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://fossil12.micro.blog/2018/09/21/two-interesting-small.html",
+	      	
+			"content_text": "Two interesting small details about the depth of todays new...",
+			"date_published": "2018-09-21T11:09:14+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/21/two-interesting-small.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/18/whats-the-best.html",
+	      	
+			"content_text": "What’s the best iOS app for the pomodoro technique?\n",
+			"date_published": "2018-09-18T14:50:55+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/18/whats-the-best.html"
+		},
+		
+		{
 			"id": "http://fossil12.micro.blog/2018/09/17/i-was-at.html",
 	      	
 			"content_text": "I was at the #hackzurich hackathon this weekend. It was...",
