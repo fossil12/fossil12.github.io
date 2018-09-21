@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://fossil12.micro.blog/2018/09/21/it-was-time.html",
+	      	
+			"content_text": "It was time for an upgrade. My new Apple Watch...",
+			"date_published": "2018-09-21T19:32:26+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/21/it-was-time.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/21/new-iphone-day.html",
+	      	
+			"content_text": "New iPhone day.\n\n\n",
+			"date_published": "2018-09-21T13:10:19+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/21/new-iphone-day.html"
+		},
+		
+		{
 			"id": "http://fossil12.micro.blog/2018/09/21/two-interesting-small.html",
 	      	
 			"content_text": "Two interesting small details about the depth of todays new...",
