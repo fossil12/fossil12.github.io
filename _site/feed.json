@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://fossil12.micro.blog/2018/09/21/two-interesting-small.html",
+	      	
+			"content_html": "<p>Two interesting small details about the depth of todays new Apple devices:</p>\n\n<ol>\n  <li>\n    <p>The iPhone X(s) (Max) is 0.1 mm thicker than the iPhone 5 series (<a href=\"https://daringfireball.net/2018/09/the_iphones_xs\">7.7 mm vs. 7.6 mm</a>)</p>\n  </li>\n  <li>\n    <p>The Apple Watch Series 4 is 0.2 mm thicker than the Apple Watch Series 0 (<a href=\"https://mjtsai.com/blog/2018/09/19/apple-watch-series-4/\">10.5 mm vs 10.7 mm</a>)</p>\n  </li>\n</ol>\n",
+			"date_published": "2018-09-21T11:09:14+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/21/two-interesting-small.html"
+		},
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/18/whats-the-best.html",
+	      	
+			"content_html": "<p>What’s the best iOS app for the pomodoro technique?</p>\n",
+			"date_published": "2018-09-18T14:50:55+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/18/whats-the-best.html"
+		},
+		
+		{
 			"id": "http://fossil12.micro.blog/2018/09/17/i-was-at.html",
 	      	
 			"content_html": "<p>I was at the #hackzurich hackathon this weekend. It was amazing. My team won 3rd place and I learned a lot for future hackathons.</p>\n\n<p><img src=\"http://fossil12.micro.blog/uploads/2018/9051ba7c26.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>Phil: “iPhone ten … s”</p>\n",
 			"date_published": "2018-09-12T19:40:00+02:00",
 			"url": "https://fossil12.micro.blog/2018/09/12/phil-iphone-ten.html"
-		},
-		
-		{
-			"id": "http://fossil12.micro.blog/2018/09/12/so-they-start.html",
-	      	
-			"content_html": "<p>So they start with the iPhone 🎾.</p>\n",
-			"date_published": "2018-09-12T19:39:24+02:00",
-			"url": "https://fossil12.micro.blog/2018/09/12/so-they-start.html"
-		},
-		
-		{
-			"id": "http://fossil12.micro.blog/2018/09/12/are-the-imessage.html",
-	      	
-			"content_html": "<p>Are the iMessage effects (e.g. lasers) new on the Apple Watch?</p>\n",
-			"date_published": "2018-09-12T19:37:05+02:00",
-			"url": "https://fossil12.micro.blog/2018/09/12/are-the-imessage.html"
 		}
 		
 	]
