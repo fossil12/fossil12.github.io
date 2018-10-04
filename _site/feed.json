@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://fossil12.micro.blog/2018/10/04/i-have-about.html",
+	      	
+			"content_html": "<p>I have about 1 day to contribute to an existing open source app or work on my own project. So hard to choose what to do… 🤔</p>\n",
+			"date_published": "2018-10-04T15:05:48+02:00",
+			"url": "https://fossil12.micro.blog/2018/10/04/i-have-about.html"
+		},
+		
+		{
 			"id": "http://fossil12.micro.blog/2018/09/21/it-was-time.html",
 	      	
 			"content_html": "<p>It was time for an upgrade. My new Apple Watch was already in active/ty use.</p>\n\n<p><img src=\"http://fossil12.micro.blog/uploads/2018/b8e55d76a7.jpg\" width=\"600\" height=\"462\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p><em>yawn</em> 3rd-paryt demos…</p>\n",
 			"date_published": "2018-09-12T19:56:58+02:00",
 			"url": "https://fossil12.micro.blog/2018/09/12/yawn-rdparyt-demos.html"
-		},
-		
-		{
-			"id": "http://fossil12.micro.blog/2018/09/12/so-if-the.html",
-	      	
-			"content_html": "<p>So if the ever build a bigger iPhone it’s iPhone Xs Max Max?</p>\n",
-			"date_published": "2018-09-12T19:43:16+02:00",
-			"url": "https://fossil12.micro.blog/2018/09/12/so-if-the.html"
 		}
 		
 	]
