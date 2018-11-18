@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-12 19:56:58 +0200
+date: 2018-09-12 18:56:58 +0100
 guid: http://fossil12.micro.blog/2018/09/12/yawn-rdparyt-demos.html
 ---
 *yawn* 3rd-paryt demos...
