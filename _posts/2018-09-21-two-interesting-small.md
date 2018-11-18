@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-21 11:09:14 +0200
+date: 2018-09-21 10:09:14 +0100
 guid: http://fossil12.micro.blog/2018/09/21/two-interesting-small.html
 ---
 Two interesting small details about the depth of todays new Apple devices:
