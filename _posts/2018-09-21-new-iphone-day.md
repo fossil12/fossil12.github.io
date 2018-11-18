@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-21 13:10:19 +0200
+date: 2018-09-21 12:10:19 +0100
 guid: http://fossil12.micro.blog/2018/09/21/new-iphone-day.html
 ---
 New iPhone day. 
