@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-07 16:26:59 +0100
 guid: http://fossil12.micro.blog/2017/05/07/this-weekend-seems.html
 ---
