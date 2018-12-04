@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-06 11:45:33 +0100
 guid: http://fossil12.micro.blog/2018/08/06/i-miss-seeing.html
 ---
