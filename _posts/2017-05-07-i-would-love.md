@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-07 13:16:30 +0100
 guid: http://fossil12.micro.blog/2017/05/07/i-would-love.html
 ---
