@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-04 12:34:23 +0100
 guid: http://fossil12.micro.blog/2018/08/04/thank-you-for.html
 ---
