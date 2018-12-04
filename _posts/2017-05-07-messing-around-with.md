@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-07 14:21:16 +0100
 guid: http://fossil12.micro.blog/2017/05/07/messing-around-with.html
 ---
