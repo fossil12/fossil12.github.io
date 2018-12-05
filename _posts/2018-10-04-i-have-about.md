@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-04 14:05:48 +0100
 guid: http://fossil12.micro.blog/2018/10/04/i-have-about.html
 ---
