@@ -1,0 +1,54 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Dave",
+	"icon": "https://micro.blog/fossil12/avatar.jpg",
+	"home_page_url": "https://fossil12.micro.blog/",
+	"feed_url": "https://fossil12.micro.blog/photos/index.json",
+	"items": [
+		
+		{
+			"id": "http://fossil12.micro.blog/2018/09/21/it-was-time.html",
+			
+			"content_text": "<p>It was time for an upgrade. My new Apple Watch was already in active/ty use.</p>\n\n<p><img src=\"http://fossil12.micro.blog/uploads/2018/b8e55d76a7.jpg\" width=\"600\" height=\"462\" /></p>\n",
+			"date_published": "2018-09-21T19:32:26+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/21/it-was-time.html",
+			"image": "http://fossil12.micro.blog/uploads/2018/b8e55d76a7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://fossil12.micro.blog/uploads/2018/b8e55d76a7.jpg"
+			}
+		},
+		{
+			"id": "http://fossil12.micro.blog/2018/09/21/new-iphone-day.html",
+			
+			"content_text": "<p>New iPhone day.</p>\n\n<p><img src=\"http://fossil12.micro.blog/uploads/2018/ec54c801fe.jpg\" width=\"489\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-21T13:10:19+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/21/new-iphone-day.html",
+			"image": "http://fossil12.micro.blog/uploads/2018/ec54c801fe.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://fossil12.micro.blog/uploads/2018/ec54c801fe.jpg"
+			}
+		},
+		{
+			"id": "http://fossil12.micro.blog/2018/09/17/i-was-at.html",
+			
+			"content_text": "<p>I was at the #hackzurich hackathon this weekend. It was amazing. My team won 3rd place and I learned a lot for future hackathons.</p>\n\n<p><img src=\"http://fossil12.micro.blog/uploads/2018/9051ba7c26.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-09-17T15:42:41+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/17/i-was-at.html",
+			"image": "http://fossil12.micro.blog/uploads/2018/9051ba7c26.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://fossil12.micro.blog/uploads/2018/9051ba7c26.jpg"
+			}
+		},
+		{
+			"id": "http://fossil12.micro.blog/2018/09/12/the-new-apple.html",
+			
+			"content_text": "<p>The new Apple Watch is in every dimension bigger except depth.</p>\n\n<p><img src=\"http://fossil12.micro.blog/uploads/2018/18643a0927.jpg\" width=\"600\" height=\"309\" /></p>\n",
+			"date_published": "2018-09-12T21:18:52+02:00",
+			"url": "https://fossil12.micro.blog/2018/09/12/the-new-apple.html",
+			"image": "http://fossil12.micro.blog/uploads/2018/18643a0927.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://fossil12.micro.blog/uploads/2018/18643a0927.jpg"
+			}
+		}
+	]
+}
