@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-30 16:39:50 +0100
 guid: http://fossil12.micro.blog/2018/10/30/the-new-ipad.html
 ---
