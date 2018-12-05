@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-29 13:40:38 +0100
 guid: http://fossil12.micro.blog/2018/08/29/i-dreamed-about.html
 ---
