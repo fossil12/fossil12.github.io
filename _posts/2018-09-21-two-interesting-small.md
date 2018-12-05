@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-21 10:09:14 +0100
 guid: http://fossil12.micro.blog/2018/09/21/two-interesting-small.html
 ---
